@@ -19,8 +19,7 @@
 
  
 # instalttion 
-```
-bash
+```bash
 pkg update -y && pkg upgrade -y
 pkg install git wget -y
 git clone https://github.com/aymensecurity/parmux.git
@@ -30,11 +29,11 @@ cd $HOME
 bash parmux.sh
 ./start-parrot.sh
 bash gui.sh
-# then select **MATE**, **XFCE**, **LXDE**, choose  Desktop
+# then choose your favorite desktoo *MATE*, *XFCE*, *LXDE*.
 ```
 <h3>If you want install all hacking parrot os tool use this command.</h3>
-```
-bash
+
+```bash
 sudo apt install parrot-tools-full -y
 ```
 
