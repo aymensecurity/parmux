@@ -31,7 +31,7 @@ bash parmux.sh
 bash gui.sh
 # then choose your favorite desktoo *MATE*, *XFCE*, *LXDE*.
 ```
-<h3>If you want install all hacking parrot os tool use this command.</h3>
+<h3>If you want install all parrot os ethical hacking  tools use this command.</h3>
 
 ```bash
 sudo apt install parrot-tools-full -y
