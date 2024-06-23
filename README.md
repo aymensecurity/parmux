@@ -10,7 +10,9 @@
  🎵vlc player   
  
  🔊 sound work
- 
+
+ <center><img src="./termux.jpg"></center
+                                 
 <center><img src="./parr1.jpg"></center
 
 <center><img src="./parr2.jpg"></center> 
