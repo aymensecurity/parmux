@@ -3,6 +3,8 @@
 
 <h2>Features:</h2>
 
+  Parrot os 6.1 (lorikeet)
+
  🌐2 browsers Firefox and chromium
  
  🎨gimp and inkscape used  to graphic design
