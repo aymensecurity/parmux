@@ -13,7 +13,9 @@
  
  🔊 sound work
 
- <center><img src="./termux.jpg"></center
+ <center><img src="./termux.jpg"></center>
+
+ <center><img src="./1.jpg"></center>
                                  
 <center><img src="./parr1.jpg"></center
 
